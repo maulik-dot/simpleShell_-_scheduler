@@ -1,4 +1,4 @@
-# simpleShell_-_scheduler
+# simpleShell_&_scheduler
 #We implemented Simple_Scheduler
 Team Member:- Maulik Mahey(2022282) Mayank Kumar(2022284)
 
