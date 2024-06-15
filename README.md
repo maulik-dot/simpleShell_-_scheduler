@@ -1,5 +1,4 @@
 # simpleShell_&_scheduler
-# We implemented Simple_Scheduler
 Team Member:- Maulik Mahey(2022282) Mayank Kumar(2022284)
 
 Contribution:- Maulik Mahey-I did some  parts of the simple Shell and implemented error handling in all possible places. Mayank Kumar-He has  done the simpleScheduler.
