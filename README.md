@@ -1,10 +1,10 @@
 # simpleShell_&_scheduler
-#We implemented Simple_Scheduler
+# We implemented Simple_Scheduler
 Team Member:- Maulik Mahey(2022282) Mayank Kumar(2022284)
 
 Contribution:- Maulik Mahey-I did some  parts of the simple Shell and implemented error handling in all possible places. Mayank Kumar-He has  done the simpleScheduler.
 
-#SimpleScheduler:
+# SimpleScheduler:
 
 Purpose: SimpleScheduler is a daemon responsible for CPU scheduling activities in an operating system context.
 
@@ -16,7 +16,7 @@ Termination: SimpleScheduler continues to work until all user-submitted jobs hav
 
 Priority Scheduling: Optionally, it supports priority scheduling, allowing users to assign priorities to their jobs.
 
-#SimpleShell:
+# SimpleShell:
 
 Purpose: SimpleShell is a command-line interface that allows users to submit and manage executable programs for execution.
 
